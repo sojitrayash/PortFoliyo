@@ -225,7 +225,7 @@ const experiences = [
     company_name: "Epitome Corporation Pvt Ltd",
     icon: "/assets/company/epitome.png",
     iconBg: "#E6DEDD",
-    date: "April 2024 - June 2024",
+    date: "September 2024 - October 2024",
     points: [
       "My responsibilities included identifying bugs, testing application performance, and verifying functionality under various conditions.",
       "I collaborated with the development team to resolve issues and improve the quality of the live streaming platform.",
@@ -238,7 +238,7 @@ const experiences = [
     company_name: "S & T Traning Institute - Sabarmti",
     icon: "/assets/company/rrb.png",
     iconBg: "#E6DEDD",
-    date: "September 2024 - October 2024", 
+    date: "April 2024 - June 2024", 
     points: [
       "I implemented a certificate authentication system to enhance security and streamline the user verification process.",
       "This system utilized digital certificates for verifying identities, ensuring secure access to sensitive applications and resources.",
