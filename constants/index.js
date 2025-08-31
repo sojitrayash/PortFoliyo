@@ -35,6 +35,10 @@ const navLinks = [
 ];
 
 const services = [
+   {
+    title: "Artificial Intelligence Development",
+    icon: <AIIcon />,
+  },
   {
     title: "Full Stack Developer",
     icon: <FullStackIcon />,
@@ -51,14 +55,11 @@ const services = [
     title: "Problem Solving",
     icon: <ProblemSolvingIcon />,
   },
-  {
+ /* {
     title: "BlockChain Development",
     icon: <BlockChainIcon />,
-  },
-  {
-    title: "Artificial Intelligence Development",
-    icon: <AIIcon />,
-  },
+  },*/
+
   {
     title: "Freelancer",
     icon: <FreelancerIcon />,
@@ -86,21 +87,21 @@ const technologies = {
       icon: "/assets/tech/javascript.svg",
       link: "https://262.ecma-international.org/",
     },
-    {
+   /* {
       name: "TypeScript",
       icon: "/assets/tech/typescript.svg",
       link: "https://www.typescriptlang.org/",
-    },
+    },*/
     {
       name: "C",
       icon: "/assets/tech/c.svg",
       link: "https://en.cppreference.com/w/c",
     },
-    {
+   /* {
       name: "Java",
       icon: "/assets/tech/java.svg",
       link: "https://www.java.com/en/",
-    },
+    },*/
     {
       name: "Python",
       icon: "/assets/tech/python.svg",
@@ -123,7 +124,7 @@ const technologies = {
       icon: "/assets/tech/tailwindcss.svg",
       link: "https://tailwindcss.com/",
     },
-    {
+   /* {
       name: "Express.js",
       icon: "/assets/tech/expressjs.png",
       link: "https://expressjs.com/",
@@ -132,7 +133,7 @@ const technologies = {
       name: "Flutter",
       icon: "/assets/tech/flutter.svg",
       link: "https://flutter.dev/",
-    },
+    },*/
   ],
   libraries: [
     {
@@ -140,7 +141,7 @@ const technologies = {
       icon: "/assets/tech/react.svg",
       link: "https://react.dev/",
     },
-    {
+    /*{
       name: "Three.js",
       icon: "/assets/tech/threejs.svg",
       link: "https://threejs.org/",
@@ -164,7 +165,7 @@ const technologies = {
       name: "Prisma",
       icon: "/assets/tech/prisma.svg",
       link: "https://www.prisma.io/",
-    },
+    },*/
   ],
   tools: [
     {
@@ -187,11 +188,11 @@ const technologies = {
       icon: "/assets/tech/figma.svg",
       link: "https://www.figma.com/",
     },
-    {
+    /*{
       name: "Docker",
       icon: "/assets/tech/docker.svg",
       link: "https://www.docker.com/",
-    },
+    },*/
   ],
   environments: [
     {
@@ -206,11 +207,11 @@ const technologies = {
       icon: "/assets/tech/mongodb.svg",
       link: "https://www.mongodb.com/",
     },
-    {
+   /* {
       name: "Firebase",
       icon: "/assets/tech/firebase.svg",
       link: "https://firebase.google.com/",
-    },
+    },*/
     {
       name: "MySQL",
       icon: "/assets/tech/my-sql.png",
@@ -220,7 +221,7 @@ const technologies = {
 };
 
 const experiences = [
-  {
+ /* {
     title: "Software Tester Live Streaming Intern",
     company_name: "Epitome Corporation Pvt Ltd",
     icon: "/assets/company/epitome.png",
@@ -232,7 +233,7 @@ const experiences = [
       "This role enhanced my attention to detail, troubleshooting abilities, and understanding of software testing processes.",
       "The experience provided valuable insights into real-time systems and the critical role of testing in software development.",
     ],
-  },
+  },*/
   {
     title: "Software Devloper",
     company_name: "S & T Traning Institute - Sabarmti",
